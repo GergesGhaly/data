@@ -1,3 +1,30 @@
 {
-    "card":[]
+    "card":[],
+    "catgories": [
+        {
+          "title": "Religious",
+          "img": "https://i.pinimg.com/236x/47/dc/a2/47dca2e2f581a6e615aa92e65d034115.jpg"
+        },
+        {
+          "title": "Games",
+          "img": "https://i.pinimg.com/236x/04/7f/ab/047fab7a54aa6698f420fbbfb1884c9f.jpg"
+        },
+        {
+          "title": "Movies",
+          "img": "https://i.pinimg.com/236x/87/e9/9e/87e99eb0661a04d5350105727ac3be23.jpg"
+        },
+        {
+          "title": "Animals",
+          "img": "https://i.pinimg.com/236x/af/04/fa/af04fad65ea06a814c8668c373b94348.jpg"
+        },
+        {
+          "title": "Animation",
+          "img": "https://i.pinimg.com/236x/66/f4/52/66f45257697119f5a174e41344bdd840.jpg"
+        },
+        {
+          "title": "Nature",
+          "img": "https://i.pinimg.com/236x/7f/e4/20/7fe42026a9f21b53bd5e6df4303423bb.jpg"
+        }
+      ]
+    
 }

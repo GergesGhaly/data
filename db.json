@@ -1,20 +1,5 @@
 {
     "card":[
-      {
-        "cat": "game",
-        "title": "disny",
-        "img": "http://res.cloudinary.com/dy7fh0bor/image/upload/v1682268661/prbugwjbcsyultwdt599.jpg",
-        "tokken": "743.9168515056201",
-        "id": 10
-      },
-      {
-        "cat": "Animals",
-        "title": "gamila",
-        "img": "http://res.cloudinary.com/dy7fh0bor/image/upload/v1682283196/p9i8fsn1z2m78sfhe4nx.jpg",
-        "tokken": "743.9168515056201",
-        "id": 15
-      }
-  
     ],
     "catgories": [
         {
